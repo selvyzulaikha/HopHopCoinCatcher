@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 8d788df1068ea3147a55dc76c3824711
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2153096014445394078
+    second: CaraBermain_0
+  - first:
+      213: -669241826065047918
+    second: CaraBermain_1
+  - first:
+      213: -7121839618646628375
+    second: CaraBermain_2
+  - first:
+      213: 5444678078778360768
+    second: CaraBermain_3
+  - first:
+      213: 8391510330576516479
+    second: CaraBermain_4
+  - first:
+      213: 280939124009724234
+    second: CaraBermain_5
+  - first:
+      213: -4554865114093881832
+    second: CaraBermain_6
+  - first:
+      213: 1400676481825667692
+    second: CaraBermain_7
+  - first:
+      213: -5726451751549342798
+    second: CaraBermain_8
+  - first:
+      213: -7608001760040270724
+    second: CaraBermain_9
+  - first:
+      213: -7287748482244517368
+    second: CaraBermain_10
+  - first:
+      213: -2287763693456681874
+    second: CaraBermain_11
+  - first:
+      213: 8678741079622871244
+    second: CaraBermain_12
+  - first:
+      213: -1548668432774783711
+    second: CaraBermain_13
+  - first:
+      213: 5424320044605791461
+    second: CaraBermain_14
+  - first:
+      213: 6968191332404505649
+    second: CaraBermain_15
+  - first:
+      213: 785534425146322823
+    second: CaraBermain_16
+  - first:
+      213: -4892085307880668008
+    second: CaraBermain_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CaraBermain_0
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 294
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2674cab159aae12e0800000000000000
+      internalID: -2153096014445394078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaraBermain_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 294
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e1f80ea1066b6f0800000000000000
+      internalID: -669241826065047918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaraBermain_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 294
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7a34799942a2d90800000000000000
+      internalID: -7121839618646628375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaraBermain_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 294
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3c0f19dd16f8b40800000000000000
+      internalID: 5444678078778360768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaraBermain_4
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 294
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75b80f7f22a47470800000000000000
+      internalID: 8391510330576516479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaraBermain_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 294
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49eb1215a816e300800000000000000
+      internalID: 280939124009724234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaraBermain_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 294
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8167d9abf4ed9c0c0800000000000000
+      internalID: -4554865114093881832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaraBermain_7
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 294
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a7670d6d3307310800000000000000
+      internalID: 1400676481825667692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaraBermain_8
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 294
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbec75d87e8780b0800000000000000
+      internalID: -5726451751549342798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaraBermain_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 294
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74c04a45b2fa6690800000000000000
+      internalID: -7608001760040270724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaraBermain_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 181
+        width: 108
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8026c671e57bcda90800000000000000
+      internalID: -7287748482244517368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaraBermain_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193
+        width: 119
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e649a79ba0b3040e0800000000000000
+      internalID: -2287763693456681874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaraBermain_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 108
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8e28ca705117870800000000000000
+      internalID: 8678741079622871244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaraBermain_13
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 137
+        width: 134
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d199df346028ae0800000000000000
+      internalID: -1548668432774783711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaraBermain_14
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 148
+        width: 99
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec52ce575e074b40800000000000000
+      internalID: 5424320044605791461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaraBermain_15
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 148
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c2de6091df3b060800000000000000
+      internalID: 6968191332404505649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaraBermain_16
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 149
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fefa1d567c6ea00800000000000000
+      internalID: 785534425146322823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaraBermain_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 94
+        width: 126
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8948dd4f452db1cb0800000000000000
+      internalID: -4892085307880668008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CaraBermain_0: -2153096014445394078
+      CaraBermain_1: -669241826065047918
+      CaraBermain_10: -7287748482244517368
+      CaraBermain_11: -2287763693456681874
+      CaraBermain_12: 8678741079622871244
+      CaraBermain_13: -1548668432774783711
+      CaraBermain_14: 5424320044605791461
+      CaraBermain_15: 6968191332404505649
+      CaraBermain_16: 785534425146322823
+      CaraBermain_17: -4892085307880668008
+      CaraBermain_2: -7121839618646628375
+      CaraBermain_3: 5444678078778360768
+      CaraBermain_4: 8391510330576516479
+      CaraBermain_5: 280939124009724234
+      CaraBermain_6: -4554865114093881832
+      CaraBermain_7: 1400676481825667692
+      CaraBermain_8: -5726451751549342798
+      CaraBermain_9: -7608001760040270724
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
